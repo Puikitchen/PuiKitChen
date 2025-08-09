@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="286" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrMGV5YWFwZTEzODIydWoza211aGh3anV0d3hpZml3dTA5cXFybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
 <p align="left">👋 Hey, I’m Pui Kit Chen!<br><br>💻 Aspiring Software Developer | 🌏 Based in Fiji | 🚀 Passionate about building useful, user-friendly applications.</p>
 
 ###
