@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="left" height="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzY1dHJtbnQydXVhaThvcDhkdGlnZ2FxcjNvbjQydHIwYnAydjBybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up? It's Mr.Chen here!!</h1>
 
 ###
